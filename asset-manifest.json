@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kitten-friends/static/css/main.da5a93ff.css",
+    "main.js": "/kitten-friends/static/js/main.0515fef1.js",
+    "static/js/787.32032a02.chunk.js": "/kitten-friends/static/js/787.32032a02.chunk.js",
+    "index.html": "/kitten-friends/index.html",
+    "main.da5a93ff.css.map": "/kitten-friends/static/css/main.da5a93ff.css.map",
+    "main.0515fef1.js.map": "/kitten-friends/static/js/main.0515fef1.js.map",
+    "787.32032a02.chunk.js.map": "/kitten-friends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da5a93ff.css",
+    "static/js/main.0515fef1.js"
+  ]
+}
